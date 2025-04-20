@@ -1,3 +1,10 @@
+# =========================================================
+# FileFlow - Python Import Visualizer
+# Author: Ali Rajabpour Sanati
+# Website: Rajabpour.com
+# GitHub: https://github.com/ali-rajabpour
+# =========================================================
+
 import os
 import ast
 import argparse
