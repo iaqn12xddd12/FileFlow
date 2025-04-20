@@ -1,0 +1,7 @@
+diagram.png
+*.pyc
+__pycache__/
+*.pyd
+*.so
+*.egg-info/
+.cache/
